@@ -24,6 +24,9 @@
         </filter>
       </defaultStorageSettings>
     </building>	
+    <comps>
+      <li Class="SK.CompProperties_ContainerBase"/>
+    </comps>
   </ThingDef>
 
 	<!-- ==================== Basket ==================== -->
